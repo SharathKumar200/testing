@@ -10,6 +10,7 @@ public class Assignment3 {
 		System.out.println("Fruit names:");
 		for (String f : fruits) {
 			System.out.println(f);
+			System.out.println(f);
 		}
 
 	}
