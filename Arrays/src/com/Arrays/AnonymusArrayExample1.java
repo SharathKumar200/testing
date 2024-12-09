@@ -3,7 +3,7 @@ package com.Arrays;
 public class AnonymusArrayExample1 {
 
 	public static void main(String[] args) {
-		Sum(new int[] { 10, 20, 30, 40 });
+		//Sum(new int[] { 10, 20, 30, 40 });
 		int[] myarray= {10, 20, 30, 40};
 		Sum(myarray);
 		
